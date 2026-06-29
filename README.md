@@ -400,7 +400,7 @@ Currently focused on building secure, decentralized systems, with a strict empha
 
 <div align="center">
 
-
+<pre>
 ╔═════════════════════════════════════════════════════════════════╗
 ║                                                                 ║
 ║     ██████╗ ██████╗ ██████╗ ███████╗██████╗ ███████╗██╗   ██╗   ║
@@ -411,9 +411,11 @@ Currently focused on building secure, decentralized systems, with a strict empha
 ║     ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝╚═════╝ ╚══════╝  ╚═══╝     ║
 ║                                                                 ║
 ╚═════════════════════════════════════════════════════════════════╝
-![alt text](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=600&height=50&lines=FULL+STACK+%7C+BLOCKCHAIN+%7C+SECURITY-FIRST;%22Code+is+Poetry%3B+Crypto+is+Truth%22)
+</pre>
+
+![Typewriter Effect](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=600&height=50&lines=FULL+STACK+%7C+BLOCKCHAIN+%7C+SECURITY-FIRST;%22Code+is+Poetry%3B+Crypto+is+Truth%22)
+
 </div>
-<div align="center">
 
 **LAST SYSTEM UPDATE:** 2026-06-29
 
