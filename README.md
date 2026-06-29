@@ -400,6 +400,7 @@ Currently focused on building secure, decentralized systems, with a strict empha
 
 <div align="center">
 
+```text
 ╔════════════════════════════════════════════════════════════════╗
 ║                                                                ║
 ║    ██████╗  ██████╗  ██████╗  ███████╗██████╗  ███████╗███████╗  ║
