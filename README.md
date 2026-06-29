@@ -1,7 +1,7 @@
 <!-- CYBERPUNK PROFILE HEADER -->
 <div align="center">
 
-![ALIFIAN-DZ TERMINAL](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=500&color=00FF66&center=true&vCenter=true&width=800&height=100&lines=INITIALIZING+SYSTEM...;ACCESS+GRANTED+%7C+alifian-dz;WELCOME+TO+NODE+%5BDECENTRALIZED%5D;Full+Stack+Dev+%26+Blockchain+Researcher)
+![ALIFIAN-DZ TERMINAL](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=500&color=FFD700&center=true&vCenter=true&width=800&height=100&lines=INITIALIZING+SYSTEM...;ACCESS+GRANTED+%7C+alifian-dz;WELCOME+TO+NODE+%5BDECENTRALIZED%5D;Full+Stack+Dev+%26+Blockchain+Researcher)
 
 </div>
 
@@ -11,7 +11,7 @@
 
 <div align="center">
 
-[![Alifian-dz's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alifian-dz&theme=react-dark&bg_color=0d1117&color=00FF66&line=FF6B35&point=00FF66&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Alifian-dz's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alifian-dz&theme=react-dark&bg_color=0d1117&color=FFD700&line=FF6B35&point=FFD700&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -26,7 +26,7 @@
 ║  STATUS        : Active Development                            ║
 ║  EDUCATION     : Bachelor of Informatics                       ║
 ║  INSTITUTION   : Ahmad Dahlan University (Expected 2026)       ║
-║  SPECIALIZATION: DApp Development, Web3, Smart Contracts      ║
+║  SPECIALIZATION: Full-Stack Development & Web3 Architecture   ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
@@ -50,17 +50,17 @@
 ### **Backend & Database**
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=ffffff)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=ffffff)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=00FF66)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=FFD700)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=ffffff)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000000)
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=ffffff)
 
 ### **Web3 & Blockchain**
 ![Ethereum](https://img.shields.io/badge/Ethereum-627EEA?style=for-the-badge&logo=ethereum&logoColor=ffffff)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF04D?style=for-the-badge&logo=ethereum&logoColor=000000)
 ![MetaMask](https://img.shields.io/badge/MetaMask-F16821?style=for-the-badge&logo=metamask&logoColor=ffffff)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=ffffff)
 ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=ffffff)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF04D?style=for-the-badge&logo=ethereum&logoColor=000000)
 
 ### **Security & Cryptography**
 ![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=ffffff)
@@ -131,7 +131,7 @@ ROLE & RESPONSIBILITIES:
 • Firebase backend integration
 
 TECH STACK:
-TypeScript · React · Vite · Firebase · Tailwind CSS · Prisma
+TypeScript · React · Vite · Firebase · Tailwind CSS
 ```
 
 </details>
@@ -141,27 +141,29 @@ TypeScript · React · Vite · Firebase · Tailwind CSS · Prisma
 ## 🔐 RESEARCH & THESIS
 
 <details>
-<summary><b>🔍 DECENTRALIZED DATA SECURITY SYSTEM</b></summary>
+<summary><b>🔍 DECENTRALIZED DATA SECURITY SYSTEM</b> — Smart Contract & IPFS Integration</summary>
 
 ```
-THESIS TITLE:
-"Decentralized Data Security System using Ethereum Smart Contracts
-and AES-256 Encryption"
+PROJECT OVERVIEW:
+Secure decentralized storage system combining Ethereum smart contracts,
+IPFS, and AES-256 encryption for immutable data access control.
 
-RESEARCH AREAS:
-├─ Smart Contract Security Architecture
-├─ Cryptographic Key Management (AES-256)
-├─ IPFS-based Decentralized Storage
-├─ Zero-Knowledge Proof Concepts
-├─ Transaction Immutability & Auditability
-└─ Performance & Scalability Analysis
+RESEARCH FOCUS:
+• Smart contract architecture for file indexing & permissions
+• Client-side AES-256 encryption/decryption pipeline
+• IPFS integration for distributed storage
+• MetaMask wallet authentication & interaction
+• Gas optimization & transaction security
 
-DELIVERABLES:
-✓ Smart Contract Implementation (Solidity)
-✓ Frontend DApp Interface
-✓ Encryption/Decryption Pipeline
-✓ Security Testing & Vulnerability Assessment
-✓ Academic Research Paper & Documentation
+TECH STACK:
+Solidity · React · Vite · Web3.js · Ethers.js · IPFS · Framer Motion
+
+KEY DELIVERABLES:
+✓ Smart Contract Implementation (EVM-compatible)
+✓ Interactive DApp Interface with Particle Effects
+✓ Full Encryption/Decryption Workflow
+✓ Real-time Transaction Tracking
+✓ Security Testing & Documentation
 ```
 
 </details>
@@ -171,204 +173,200 @@ DELIVERABLES:
 ## 🏗️ FEATURED PROJECTS
 
 <details>
-<summary><b>💾 SC-IPFS-AES-DATA STORAGE</b> — Blockchain Data Encryption Layer</summary>
+<summary><b>📊 OZYMANDIAS</b> — Prediction Market Analysis Engine</summary>
 
 ```
 DESCRIPTION:
-Decentralized, encrypted data storage system combining Ethereum smart
-contracts with IPFS and AES-256 encryption for secure, immutable storage.
+Advanced LLM-powered analysis platform for Polymarket predictions with
+news context integration, verdict generation, and market insights.
 
 TECH STACK:
-Solidity · React · Web3.js · IPFS · MetaMask · Framer Motion
+Next.js · TypeScript · React Query · Tailwind CSS · Zod · Groq/OpenAI
 
 KEY FEATURES:
-• Smart contract-based file indexing and access control
-• IPFS for distributed file storage
-• AES-256 client-side encryption
-• MetaMask wallet integration
-• Real-time transaction tracking
-• Particle background animations
+• Real-time Polymarket data aggregation
+• Multi-model LLM analysis (Qwen, Groq, OpenAI)
+• News context integration for informed predictions
+• Advanced Zod schema validation
+• Interactive market verdict dashboard
 ```
 
 </details>
 
 <details>
-<summary><b>📊 OZYMANDIAS</b> — AI-Powered Market Analysis & Prediction Engine</summary>
+<summary><b>🎯 ASTRALEKHA</b> — AI CV Roasting & ATS Optimization Platform</summary>
 
 ```
 DESCRIPTION:
-Advanced prediction market analysis platform with LLM-powered insights
-for Polymarket analysis, news aggregation, and market verdict generation.
+Full-stack SaaS platform for AI-powered CV analysis, premium rewrites,
+and job application optimization with payment integration.
 
 TECH STACK:
-Next.js · TypeScript · Tailwind CSS · Zod · PostgreSQL · Prisma
+Next.js 16 · TypeScript · NextAuth.js · PostgreSQL · Prisma · Tailwind CSS
 
 KEY FEATURES:
-• Real-time Polymarket market data integration
-• LLM-powered verdict & analysis generation
-• News context-aware predictions
-• Advanced validation with Zod schemas
-• Enterprise-grade error handling
+• Free CV roasting with AI analysis
+• Premium AI-powered rewrite engine (credit-based)
+• Google OAuth & magic link authentication
+• Admin dashboard for metrics & user management
+• Midtrans payment integration for credit top-up
+• PWA support with offline capabilities
+• Artifact storage (Cloudflare R2/S3)
 ```
 
 </details>
 
 <details>
-<summary><b>🎯 ASTRALEKHA</b> — Enterprise Savings & Fundraising Platform</summary>
+<summary><b>⚙️ TALOS</b> — Affiliate Marketing Automation Suite</summary>
 
 ```
 DESCRIPTION:
-Full-stack SaaS platform for personal savings tracking and charitable
-fundraising with role-based access control and audit logging.
+Comprehensive affiliate automation ecosystem: Shopee scraping, AI caption
+generation, trend analysis, and X/Twitter auto-posting with Telegram control.
 
 TECH STACK:
-Next.js · TypeScript · NextAuth · PostgreSQL · Prisma · Tailwind CSS
+Python · Chrome Extension · LLM APIs · Twitter/X API · Telegram Bot
 
 KEY FEATURES:
-• Role-based access control (Admin, Manager, User)
-• Comprehensive audit logging system
-• Secure payment integration
-• Protected dashboard with middleware auth
-• Real-time data synchronization
+• Unified Chrome extension for product scraping & enrichment
+• Multi-method AI caption generation (Basic/Trend/Storytelling)
+• Trend extraction from Twitter/X
+• Automated X posting with golden hour scheduling
+• Telegram bot for unified control & monitoring
+• LLM multi-agent pipeline (Copywriter/SEO/Fact-Check)
+• Dry-run mode for testing
 ```
 
 </details>
 
 <details>
-<summary><b>⚙️ TALOS</b> — Distributed Systems & Cloud Infrastructure</summary>
+<summary><b>🛒 WAREHOUSE-POS-SYSTEM</b> — Enterprise Inventory & Sales Management</summary>
 
 ```
 DESCRIPTION:
-Modular architecture framework for building scalable, distributed systems
-with focus on inter-service communication and resilience patterns.
-
-TECH STACK:
-TypeScript · Node.js · Express · Docker · PostgreSQL
-
-KEY FEATURES:
-• Service-oriented architecture patterns
-• API gateway implementation
-• Database migration tooling
-• Container orchestration support
-• Production-ready deployment configs
-```
-
-</details>
-
-<details>
-<summary><b>🛒 WAREHOUSE-POS-SYSTEM</b> — Enterprise Inventory & Point-of-Sale</summary>
-
-```
-DESCRIPTION:
-Full-stack enterprise system for inventory management, POS operations,
-and warehouse logistics with role-based permissions and audit trails.
+Production-ready POS system with real-time inventory sync, multi-role
+authorization, comprehensive audit logging, and transaction security.
 
 TECH STACK:
 Express.js · TypeScript · PostgreSQL · Prisma · React · Next.js
 
 KEY FEATURES:
-• Multi-role authorization (Owner, Manager, Staff)
+• Multi-role access control (Owner/Manager/Staff)
 • Real-time inventory synchronization
-• Transaction security with rate limiting
-• Comprehensive error handling & validation
-• Audit logging & compliance tracking
-• REST API with helmet security headers
+• Rate limiting & security headers (Helmet)
+• Comprehensive error handling with Zod validation
+• Immutable audit trail logging
+• Transaction management with rollback support
+• Role-based protected routes & middleware auth
 ```
 
 </details>
 
 <details>
-<summary><b>📱 SANDHANA</b> — Open Source Intelligence Platform</summary>
+<summary><b>📱 SANDHANA</b> — Zero-Knowledge OSINT Intelligence Platform</summary>
 
 ```
 DESCRIPTION:
-Offline intelligence analysis platform for data extraction and validation.
-Fully open-source with zero-network-dependency architecture.
+Advanced offline intelligence analysis platform with military-grade
+zero-knowledge encryption for fully private local data storage.
 
 TECH STACK:
-Python · Streamlit · SQLite · Zero-Knowledge Encryption
+Python · Streamlit · SQLite · Cryptography (Fernet/PBKDF2)
 
 KEY FEATURES:
-• Multi-source data parsing (NIK, Phone, Media, Profile)
-• Offline EXIF extraction & analysis
-• SQLite zero-knowledge vault encryption
-• Stateful Streamlit interface
-• Indonesian data format support
+• BENTENG: Zero-knowledge vault with AES encryption
+• AKSARA: Multi-format document entity extraction
+• NIK decoder & phone parser (Indonesian data)
+• EXIF forensics with GPS mapping
+• JALA: Interactive network graph visualization
+• SANGKUT: Automated correlation engine
+• SANDI: Wordlist generation for security research
+• LONTAR: Dynamic PDF dossier generation
 ```
 
 </details>
 
 <details>
-<summary><b>🎤 VOXCOPIA</b> — AI-Powered Text-to-Speech System</summary>
+<summary><b>🎬 VOXCOPIA</b> — Automated Faceless Video Generation System</summary>
 
 ```
 DESCRIPTION:
-Advanced TTS system with SSML-based prosody control and emoji/markdown
-cleanup for natural-sounding Indonesian speech synthesis.
+End-to-end faceless content automation: LLM scriptwriting, TTS synthesis,
+whisper transcription, subtitle generation, and optional TikTok uploader.
 
 TECH STACK:
-Python · edge-tts · Streamlit · Regex Processing
+Python · Groq API · Alibaba DashScope · FFmpeg · Playwright
 
 KEY FEATURES:
-• Natural prosody control (rate, pitch, volume)
-• Dynamic text preprocessing for TTS clarity
-• Indonesian female voice synthesis
-• Batch audio generation
-• Target duration-based pacing
+• Multi-LLM creative pipeline (Qwen/Nemotron/Llama)
+• SSML-based prosody control for natural speech
+• Whisper transcription with word-level timing
+• ASS subtitle generation with karaoke effects
+• FFmpeg video rendering with background looping
+• Playwright-based TikTok auto-uploader
+• Streamlit CMS dashboard
+• Support for multiple model providers
 ```
 
 </details>
 
 <details>
-<summary><b>💰 CINTACUAN</b> — Personal Finance Management System</summary>
+<summary><b>💰 CINTACUAN</b> — Couples Finance & Expense Tracking PWA</summary>
 
 ```
 DESCRIPTION:
-Full-stack personal finance dashboard with multi-wallet support,
-expense categorization, and expense analytics.
+Mobile-first PWA for couples to track shared expenses, income, and
+net worth with cute pastel design and real-time synchronization.
 
 TECH STACK:
-TypeScript · Next.js · Prisma · PostgreSQL · Tailwind CSS · bcryptjs
+Next.js 14 · TypeScript · PostgreSQL · Prisma · Tailwind CSS · Recharts
 
 KEY FEATURES:
-• Multi-wallet transaction tracking (Cash, Bank, E-wallets)
-• Income/Expense categorization with emoji icons
-• Secure password hashing (bcryptjs)
-• Prisma ORM with seed data
-• User authentication & authorization
+• Multi-wallet support (Cash/Bank/E-wallets)
+• Income & expense categorization
+• Real-time activity logging
+• Dashboard with cashflow charts
+• Net worth calculation
+• PWA installation & offline support
+• Cute pastel animations
+• Authentication & role separation
 ```
 
 </details>
 
 <details>
-<summary><b>🛒 SHOPEE-SCRAPING-PRODUCT</b> — E-Commerce Data Extraction</summary>
+<summary><b>🛒 SHOPEE-SCRAPING-PRODUCT</b> — E-Commerce Data Extraction Chrome Extension</summary>
 
 ```
 DESCRIPTION:
-Chrome extension for extracting and processing Shopee product listings
-with price filtering and data export capabilities.
+Browser automation extension for bulk Shopee product scraping with
+price filtering, dynamic delay control, and multi-format export.
 
 TECH STACK:
 JavaScript · Chrome Extension API · HTML/CSS
 
 KEY FEATURES:
-• Dynamic brand and keyword configuration
-• Price range filtering
-• Real-time scraping progress tracking
+• Dynamic brand & keyword configuration
+• Price range filtering (min/max)
+• Real-time progress tracking with stats
 • Excel & HTML export formats
-• Custom request delay control
+• Configurable request delays
+• Mall-only filtering option
+• Preview data before export
 ```
 
 </details>
 
 ---
 
-## 🎯 CURRENTLY WORKING ON
+## 🎯 DEVELOPMENT FOCUS
 
-- 🔐 **Advanced Smart Contract Security Patterns** — Multi-sig wallets, proxy patterns
-- 🌐 **Zero-Knowledge Proof Implementation** — Privacy-preserving dApps
-- 📊 **Real-time Analytics Dashboard** — Web3 transaction monitoring
-- 🤖 **AI-Powered DApp Agent** — Natural language smart contract interactions
+Saat ini fokus pada pengembangan beberapa project mandiri yang challenging:
+
+- 🔐 **Secure Multi-Sig Wallet Framework** — Building advanced smart contract patterns for transaction signing
+- 🌐 **Privacy-Preserving DApp Protocol** — Implementing zero-knowledge proof mechanisms for sensitive transactions
+- 📊 **Real-time On-Chain Analytics** — Developing Web3 data aggregation dashboard with transaction monitoring
+- 🤖 **Autonomous Agent System** — Creating AI-powered smart contract interaction layer with natural language processing
 
 ---
 
@@ -381,29 +379,8 @@ KEY FEATURES:
 [![Email](https://img.shields.io/badge/Email-alif.workmail%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alif.workmail@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-alifian--dz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alifian-dz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Coming%20Soon-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-00FF66?style=for-the-badge&logo=firefox&logoColor=black)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-FFD700?style=for-the-badge&logo=firefox&logoColor=000000)](#)
 [![Twitter](https://img.shields.io/badge/Twitter-Coming%20Soon-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
-
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  OPEN TO COLLABORATION & OPPORTUNITIES
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-📧 Direct Mail        : alif.workmail@gmail.com
-🔗 GitHub Profile     : https://github.com/alifian-dz
-💼 LinkedIn           : [Link Coming Soon]
-🌐 Portfolio/CV       : [Link Coming Soon]
-🐦 Twitter/X          : [Link Coming Soon]
-
-INTERESTS:
-├─ Web3 & Blockchain Development
-├─ Full-Stack Architecture
-├─ Cryptographic Systems
-├─ Open-Source Contributions
-└─ Technical Writing & Documentation
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
 
 </div>
 
@@ -430,11 +407,13 @@ INTERESTS:
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
-<br>
+</div>
 
-**LAST UPDATED:** 2026
+<div align="center">
 
-**STATUS:** 🟢 ACTIVE & DEVELOPING
+**TYPEWRITER ACTIVATED...**
+
+![ALIFIAN-DZ SIGNATURE](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&height=60&lines=node+%40alifian-dz+initialized;systems+online;awaiting+deployment)
 
 </div>
 
@@ -442,8 +421,12 @@ INTERESTS:
 
 <div align="center">
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=alifian-dz&color=00FF66&style=flat-square&label=NODE%20VISITORS)
+**LAST SYSTEM UPDATE:** 2026-06-29
 
-**Built with ⚡ Cyberpunk Aesthetic | Powered by Decentralized Vision**
+**NODE STATUS:** 🟢 ACTIVE & DEVELOPING
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=alifian-dz&color=FFD700&style=flat-square&label=NODE%20VISITORS)
+
+**Built with ⚡ Cyberpunk Aesthetic | Powered by Decentralized Architecture**
 
 </div>
