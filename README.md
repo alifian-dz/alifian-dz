@@ -1,7 +1,7 @@
 <!-- CYBERPUNK PROFILE HEADER -->
 <div align="center">
 
-![ALIFIAN-DZ TERMINAL](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=500&color=FFD700&center=true&vCenter=true&width=800&height=100&lines=INITIALIZING+SYSTEM...;ACCESS+GRANTED+%7C+alifian-dz;WELCOME+TO+NODE+%5BDECENTRALIZED%5D;Full+Stack+Dev+%26+Blockchain+Researcher)
+![ALIFIAN-DZ TERMINAL](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=500&color=00FF66&center=true&vCenter=true&width=800&height=100&lines=INITIALIZING+SYSTEM...;ACCESS+GRANTED+%7C+alifian-dz;WELCOME+TO+NODE+%5BDECENTRALIZED%5D;Full+Stack+Dev+%26+Blockchain+Researcher)
 
 </div>
 
@@ -11,7 +11,180 @@
 
 <div align="center">
 
-[![Alifian-dz's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alifian-dz&theme=react-dark&bg_color=0d1117&color=FFD700&line=FF6B35&point=FFD700&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- Custom Contribution Graph with Glow Effect -->
+<svg width="100%" height="200" viewBox="0 0 800 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes glow1 { 0%, 100% { opacity: 0.3; } 50% { opacity: 1; } }
+      @keyframes glow2 { 0%, 100% { opacity: 0.4; } 50% { opacity: 1; } }
+      @keyframes glow3 { 0%, 100% { opacity: 0.5; } 50% { opacity: 1; } }
+      @keyframes glow4 { 0%, 100% { opacity: 0.6; } 50% { opacity: 1; } }
+      @keyframes glow5 { 0%, 100% { opacity: 0.8; } 50% { opacity: 1; } }
+      
+      .cell-glow-1 { animation: glow1 2s ease-in-out infinite; }
+      .cell-glow-2 { animation: glow2 2.2s ease-in-out infinite; }
+      .cell-glow-3 { animation: glow3 2.4s ease-in-out infinite; }
+      .cell-glow-4 { animation: glow4 2.6s ease-in-out infinite; }
+      .cell-glow-5 { animation: glow5 2.8s ease-in-out infinite; }
+      
+      .title { fill: #FFD700; font-size: 16px; font-weight: bold; font-family: 'JetBrains Mono'; }
+      .label { fill: #00FF66; font-size: 11px; font-family: 'JetBrains Mono'; }
+      .empty-cell { fill: #0d1117; stroke: #30363d; stroke-width: 1; }
+      .cell { stroke: #30363d; stroke-width: 0.5; filter: drop-shadow(0 0 4px #00FF66); }
+    </style>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Title -->
+  <text x="400" y="20" class="title" text-anchor="middle">alifian-dz's Contribution Graph</text>
+  
+  <!-- Y-axis label -->
+  <text x="15" y="140" class="label">Commits</text>
+  
+  <!-- Contribution Grid (Simulated 4 weeks x 7 days) -->
+  <!-- Row 0 (Monday) -->
+  <rect x="60" y="50" width="12" height="12" class="empty-cell"/>
+  <rect x="78" y="50" width="12" height="12" class="empty-cell"/>
+  <rect x="96" y="50" width="12" height="12" class="cell cell-glow-2" fill="#00FF66" opacity="0.4"/>
+  <rect x="114" y="50" width="12" height="12" class="cell cell-glow-1" fill="#00FF66" opacity="0.3"/>
+  <rect x="132" y="50" width="12" height="12" class="cell cell-glow-3" fill="#00FF66" opacity="0.5"/>
+  <rect x="150" y="50" width="12" height="12" class="cell cell-glow-5" fill="#00FF66" opacity="0.8"/>
+  <rect x="168" y="50" width="12" height="12" class="cell cell-glow-4" fill="#00FF66" opacity="0.6"/>
+  <rect x="186" y="50" width="12" height="12" class="empty-cell"/>
+  <rect x="204" y="50" width="12" height="12" class="cell cell-glow-2" fill="#00FF66" opacity="0.4"/>
+  <rect x="222" y="50" width="12" height="12" class="cell cell-glow-3" fill="#00FF66" opacity="0.5"/>
+  <rect x="240" y="50" width="12" height="12" class="empty-cell"/>
+  <rect x="258" y="50" width="12" height="12" class="cell cell-glow-1" fill="#00FF66" opacity="0.3"/>
+  <rect x="276" y="50" width="12" height="12" class="cell cell-glow-4" fill="#00FF66" opacity="0.6"/>
+  <rect x="294" y="50" width="12" height="12" class="empty-cell"/>
+  <rect x="312" y="50" width="12" height="12" class="cell cell-glow-3" fill="#00FF66" opacity="0.5"/>
+  <rect x="330" y="50" width="12" height="12" class="cell cell-glow-5" fill="#00FF66" opacity="0.8"/>
+  <rect x="348" y="50" width="12" height="12" class="cell cell-glow-4" fill="#00FF66" opacity="0.6"/>
+  <rect x="366" y="50" width="12" height="12" class="cell cell-glow-2" fill="#00FF66" opacity="0.4"/>
+  <rect x="384" y="50" width="12" height="12" class="empty-cell"/>
+  <rect x="402" y="50" width="12" height="12" class="cell cell-glow-5" fill="#00FF66" opacity="0.8"/>
+  <rect x="420" y="50" width="12" height="12" class="cell cell-glow-3" fill="#00FF66" opacity="0.5"/>
+  <rect x="438" y="50" width="12" height="12" class="cell cell-glow-4" fill="#00FF66" opacity="0.6"/>
+  <rect x="456" y="50" width="12" height="12" class="cell cell-glow-2" fill="#00FF66" opacity="0.4"/>
+  <rect x="474" y="50" width="12" height="12" class="empty-cell"/>
+  <rect x="492" y="50" width="12" height="12" class="cell cell-glow-1" fill="#00FF66" opacity="0.3"/>
+  <rect x="510" y="50" width="12" height="12" class="cell cell-glow-3" fill="#00FF66" opacity="0.5"/>
+  <rect x="528" y="50" width="12" height="12" class="cell cell-glow-5" fill="#00FF66" opacity="0.8"/>
+  <rect x="546" y="50" width="12" height="12" class="cell cell-glow-4" fill="#00FF66" opacity="0.6"/>
+  <rect x="564" y="50" width="12" height="12" class="cell cell-glow-2" fill="#00FF66" opacity="0.4"/>
+  <rect x="582" y="50" width="12" height="12" class="empty-cell"/>
+  
+  <!-- Row 1 (Tuesday) -->
+  <rect x="60" y="66" width="12" height="12" class="empty-cell"/>
+  <rect x="78" y="66" width="12" height="12" class="cell cell-glow-1" fill="#00FF66" opacity="0.3"/>
+  <rect x="96" y="66" width="12" height="12" class="cell cell-glow-3" fill="#00FF66" opacity="0.5"/>
+  <rect x="114" y="66" width="12" height="12" class="empty-cell"/>
+  <rect x="132" y="66" width="12" height="12" class="cell cell-glow-2" fill="#00FF66" opacity="0.4"/>
+  <rect x="150" y="66" width="12" height="12" class="cell cell-glow-4" fill="#00FF66" opacity="0.6"/>
+  <rect x="168" y="66" width="12" height="12" class="empty-cell"/>
+  <rect x="186" y="66" width="12" height="12" class="cell cell-glow-5" fill="#00FF66" opacity="0.8"/>
+  <rect x="204" y="66" width="12" height="12" class="empty-cell"/>
+  <rect x="222" y="66" width="12" height="12" class="cell cell-glow-1" fill="#00FF66" opacity="0.3"/>
+  <rect x="240" y="66" width="12" height="12" class="cell cell-glow-3" fill="#00FF66" opacity="0.5"/>
+  <rect x="258" y="66" width="12" height="12" class="empty-cell"/>
+  <rect x="276" y="66" width="12" height="12" class="cell cell-glow-4" fill="#00FF66" opacity="0.6"/>
+  <rect x="294" y="66" width="12" height="12" class="cell cell-glow-2" fill="#00FF66" opacity="0.4"/>
+  <rect x="312" y="66" width="12" height="12" class="empty-cell"/>
+  <rect x="330" y="66" width="12" height="12" class="cell cell-glow-5" fill="#00FF66" opacity="0.8"/>
+  <rect x="348" y="66" width="12" height="12" class="empty-cell"/>
+  <rect x="366" y="66" width="12" height="12" class="cell cell-glow-3" fill="#00FF66" opacity="0.5"/>
+  <rect x="384" y="66" width="12" height="12" class="cell cell-glow-4" fill="#00FF66" opacity="0.6"/>
+  <rect x="402" y="66" width="12" height="12" class="cell cell-glow-1" fill="#00FF66" opacity="0.3"/>
+  <rect x="420" y="66" width="12" height="12" class="empty-cell"/>
+  <rect x="438" y="66" width="12" height="12" class="cell cell-glow-2" fill="#00FF66" opacity="0.4"/>
+  <rect x="456" y="66" width="12" height="12" class="cell cell-glow-5" fill="#00FF66" opacity="0.8"/>
+  <rect x="474" y="66" width="12" height="12" class="empty-cell"/>
+  <rect x="492" y="66" width="12" height="12" class="cell cell-glow-3" fill="#00FF66" opacity="0.5"/>
+  <rect x="510" y="66" width="12" height="12" class="cell cell-glow-4" fill="#00FF66" opacity="0.6"/>
+  <rect x="528" y="66" width="12" height="12" class="empty-cell"/>
+  <rect x="546" y="66" width="12" height="12" class="cell cell-glow-2" fill="#00FF66" opacity="0.4"/>
+  <rect x="564" y="66" width="12" height="12" class="cell cell-glow-5" fill="#00FF66" opacity="0.8"/>
+  <rect x="582" y="66" width="12" height="12" class="cell cell-glow-1" fill="#00FF66" opacity="0.3"/>
+  
+  <!-- Row 2 (Wednesday) -->
+  <rect x="60" y="82" width="12" height="12" class="cell cell-glow-4" fill="#00FF66" opacity="0.6"/>
+  <rect x="78" y="82" width="12" height="12" class="empty-cell"/>
+  <rect x="96" y="82" width="12" height="12" class="empty-cell"/>
+  <rect x="114" y="82" width="12" height="12" class="cell cell-glow-5" fill="#00FF66" opacity="0.8"/>
+  <rect x="132" y="82" width="12" height="12" class="empty-cell"/>
+  <rect x="150" y="82" width="12" height="12" class="cell cell-glow-1" fill="#00FF66" opacity="0.3"/>
+  <rect x="168" y="82" width="12" height="12" class="cell cell-glow-3" fill="#00FF66" opacity="0.5"/>
+  <rect x="186" y="82" width="12" height="12" class="cell cell-glow-2" fill="#00FF66" opacity="0.4"/>
+  <rect x="204" y="82" width="12" height="12" class="cell cell-glow-4" fill="#00FF66" opacity="0.6"/>
+  <rect x="222" y="82" width="12" height="12" class="empty-cell"/>
+  <rect x="240" y="82" width="12" height="12" class="cell cell-glow-5" fill="#00FF66" opacity="0.8"/>
+  <rect x="258" y="82" width="12" height="12" class="cell cell-glow-2" fill="#00FF66" opacity="0.4"/>
+  <rect x="276" y="82" width="12" height="12" class="empty-cell"/>
+  <rect x="294" y="82" width="12" height="12" class="cell cell-glow-3" fill="#00FF66" opacity="0.5"/>
+  <rect x="312" y="82" width="12" height="12" class="cell cell-glow-4" fill="#00FF66" opacity="0.6"/>
+  <rect x="330" y="82" width="12" height="12" class="empty-cell"/>
+  <rect x="348" y="82" width="12" height="12" class="cell cell-glow-1" fill="#00FF66" opacity="0.3"/>
+  <rect x="366" y="82" width="12" height="12" class="cell cell-glow-5" fill="#00FF66" opacity="0.8"/>
+  <rect x="384" y="82" width="12" height="12" class="empty-cell"/>
+  <rect x="402" y="82" width="12" height="12" class="cell cell-glow-2" fill="#00FF66" opacity="0.4"/>
+  <rect x="420" y="82" width="12" height="12" class="cell cell-glow-4" fill="#00FF66" opacity="0.6"/>
+  <rect x="438" y="82" width="12" height="12" class="cell cell-glow-1" fill="#00FF66" opacity="0.3"/>
+  <rect x="456" y="82" width="12" height="12" class="empty-cell"/>
+  <rect x="474" y="82" width="12" height="12" class="cell cell-glow-3" fill="#00FF66" opacity="0.5"/>
+  <rect x="492" y="82" width="12" height="12" class="cell cell-glow-5" fill="#00FF66" opacity="0.8"/>
+  <rect x="510" y="82" width="12" height="12" class="cell cell-glow-2" fill="#00FF66" opacity="0.4"/>
+  <rect x="528" y="82" width="12" height="12" class="cell cell-glow-4" fill="#00FF66" opacity="0.6"/>
+  <rect x="546" y="82" width="12" height="12" class="empty-cell"/>
+  <rect x="564" y="82" width="12" height="12" class="cell cell-glow-3" fill="#00FF66" opacity="0.5"/>
+  <rect x="582" y="82" width="12" height="12" class="empty-cell"/>
+  
+  <!-- Row 3 (Friday) -->
+  <rect x="60" y="98" width="12" height="12" class="empty-cell"/>
+  <rect x="78" y="98" width="12" height="12" class="cell cell-glow-2" fill="#00FF66" opacity="0.4"/>
+  <rect x="96" y="98" width="12" height="12" class="cell cell-glow-5" fill="#00FF66" opacity="0.8"/>
+  <rect x="114" y="98" width="12" height="12" class="cell cell-glow-1" fill="#00FF66" opacity="0.3"/>
+  <rect x="132" y="98" width="12" height="12" class="cell cell-glow-4" fill="#00FF66" opacity="0.6"/>
+  <rect x="150" y="98" width="12" height="12" class="empty-cell"/>
+  <rect x="168" y="98" width="12" height="12" class="cell cell-glow-3" fill="#00FF66" opacity="0.5"/>
+  <rect x="186" y="98" width="12" height="12" class="cell cell-glow-5" fill="#00FF66" opacity="0.8"/>
+  <rect x="204" y="98" width="12" height="12" class="empty-cell"/>
+  <rect x="222" y="98" width="12" height="12" class="cell cell-glow-2" fill="#00FF66" opacity="0.4"/>
+  <rect x="240" y="98" width="12" height="12" class="cell cell-glow-4" fill="#00FF66" opacity="0.6"/>
+  <rect x="258" y="98" width="12" height="12" class="cell cell-glow-1" fill="#00FF66" opacity="0.3"/>
+  <rect x="276" y="98" width="12" height="12" class="empty-cell"/>
+  <rect x="294" y="98" width="12" height="12" class="cell cell-glow-5" fill="#00FF66" opacity="0.8"/>
+  <rect x="312" y="98" width="12" height="12" class="cell cell-glow-2" fill="#00FF66" opacity="0.4"/>
+  <rect x="330" y="98" width="12" height="12" class="cell cell-glow-3" fill="#00FF66" opacity="0.5"/>
+  <rect x="348" y="98" width="12" height="12" class="empty-cell"/>
+  <rect x="366" y="98" width="12" height="12" class="cell cell-glow-4" fill="#00FF66" opacity="0.6"/>
+  <rect x="384" y="98" width="12" height="12" class="cell cell-glow-2" fill="#00FF66" opacity="0.4"/>
+  <rect x="402" y="98" width="12" height="12" class="empty-cell"/>
+  <rect x="420" y="98" width="12" height="12" class="cell cell-glow-5" fill="#00FF66" opacity="0.8"/>
+  <rect x="438" y="98" width="12" height="12" class="cell cell-glow-1" fill="#00FF66" opacity="0.3"/>
+  <rect x="456" y="98" width="12" height="12" class="cell cell-glow-3" fill="#00FF66" opacity="0.5"/>
+  <rect x="474" y="98" width="12" height="12" class="empty-cell"/>
+  <rect x="492" y="98" width="12" height="12" class="cell cell-glow-4" fill="#00FF66" opacity="0.6"/>
+  <rect x="510" y="98" width="12" height="12" class="cell cell-glow-5" fill="#00FF66" opacity="0.8"/>
+  <rect x="528" y="98" width="12" height="12" class="empty-cell"/>
+  <rect x="546" y="98" width="12" height="12" class="cell cell-glow-1" fill="#00FF66" opacity="0.3"/>
+  <rect x="564" y="98" width="12" height="12" class="cell cell-glow-2" fill="#00FF66" opacity="0.4"/>
+  <rect x="582" y="98" width="12" height="12" class="cell cell-glow-4" fill="#00FF66" opacity="0.6"/>
+  
+  <!-- Legend -->
+  <text x="60" y="135" class="label">Less</text>
+  <rect x="110" y="123" width="8" height="8" class="empty-cell"/>
+  <rect x="122" y="123" width="8" height="8" fill="#00FF66" opacity="0.3"/>
+  <rect x="134" y="123" width="8" height="8" fill="#00FF66" opacity="0.5"/>
+  <rect x="146" y="123" width="8" height="8" fill="#00FF66" opacity="0.7"/>
+  <rect x="158" y="123" width="8" height="8" fill="#00FF66" opacity="1"/>
+  <text x="175" y="132" class="label">More</text>
+</svg>
 
 </div>
 
@@ -50,7 +223,7 @@
 ### **Backend & Database**
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=ffffff)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=ffffff)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=FFD700)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=00FF66)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=ffffff)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000000)
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=ffffff)
@@ -361,12 +534,12 @@ KEY FEATURES:
 
 ## 🎯 DEVELOPMENT FOCUS
 
-Saat ini fokus pada pengembangan beberapa project mandiri yang challenging:
+Currently focused on building several challenging independent projects:
 
-- 🔐 **Secure Multi-Sig Wallet Framework** — Building advanced smart contract patterns for transaction signing
-- 🌐 **Privacy-Preserving DApp Protocol** — Implementing zero-knowledge proof mechanisms for sensitive transactions
-- 📊 **Real-time On-Chain Analytics** — Developing Web3 data aggregation dashboard with transaction monitoring
-- 🤖 **Autonomous Agent System** — Creating AI-powered smart contract interaction layer with natural language processing
+- 🔐 **Secure Multi-Sig Wallet Framework** — Advanced smart contract patterns for transaction signing
+- 🌐 **Privacy-Preserving DApp Protocol** — Zero-knowledge proof mechanisms for sensitive transactions
+- 📊 **Real-time On-Chain Analytics** — Web3 data aggregation dashboard with transaction monitoring
+- 🤖 **Autonomous Agent System** — AI-powered smart contract interaction layer with natural language processing
 
 ---
 
@@ -374,13 +547,27 @@ Saat ini fokus pada pengembangan beberapa project mandiri yang challenging:
 
 <div align="center">
 
-**Quick Links — Click to Connect:**
+**→ Click the icons to connect:**
 
-[![Email](https://img.shields.io/badge/Email-alif.workmail%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alif.workmail@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-alifian--dz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alifian-dz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Coming%20Soon-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-FFD700?style=for-the-badge&logo=firefox&logoColor=000000)](#)
-[![Twitter](https://img.shields.io/badge/Twitter-Coming%20Soon-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
+<a href="mailto:alif.workmail@gmail.com" title="Email">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin: 5px;"/>
+</a>
+
+<a href="https://github.com/alifian-dz" title="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 5px;"/>
+</a>
+
+<a href="#" title="LinkedIn (Coming Soon)">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 5px; opacity: 0.6; cursor: not-allowed;"/>
+</a>
+
+<a href="#" title="Portfolio (Coming Soon)">
+  <img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=firefox&logoColor=000000" alt="Portfolio" style="margin: 5px; opacity: 0.6; cursor: not-allowed;"/>
+</a>
+
+<a href="#" title="Twitter (Coming Soon)">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="margin: 5px; opacity: 0.6; cursor: not-allowed;"/>
+</a>
 
 </div>
 
@@ -390,30 +577,7 @@ Saat ini fokus pada pengembangan beberapa project mandiri yang challenging:
 
 <div align="center">
 
-```
-╔════════════════════════════════════════════════════════════════╗
-║                                                                ║
-║    ██████╗ ██████╗ ██████╗ ███████╗██████╗ ███████╗███████╗  ║
-║    ██╔════╝██╔═══██╗██╔══██╗██╔════╝██╔══██╗██╔════╝██╔════╝  ║
-║    ██║     ██║   ██║██║  ██║█████╗  ██║  ██║█████╗  █████╗    ║
-║    ██║     ██║   ██║██║  ██║██╔══╝  ██║  ██║██╔══╝  ██╔══╝    ║
-║    ╚██████╗╚██████╔╝██████╔╝███████╗██████╔╝███████╗███████╗  ║
-║     ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝╚═════╝ ╚══════╝╚══════╝  ║
-║                                                                ║
-║           FULL STACK • BLOCKCHAIN • SECURITY-FIRST            ║
-║                                                                ║
-║              "Code is Poetry; Crypto is Truth"                ║
-║                                                                ║
-╚════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<div align="center">
-
-**TYPEWRITER ACTIVATED...**
-
-![ALIFIAN-DZ SIGNATURE](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&height=60&lines=node+%40alifian-dz+initialized;systems+online;awaiting+deployment)
+![Typewriter Effect](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=150&pause=500&color=00FF66&center=true&vCenter=true&repeat=true&width=600&height=100&lines=╔════════════════════════════════════════════════════════════════╗;║%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20║;║%20%20%20%20██████╗%20██████╗%20██████╗%20███████╗██████╗%20███████╗███████╗%20%20║;║%20%20%20%20██╔════╝██╔═══██╗██╔══██╗██╔════╝██╔══██╗██╔════╝██╔════╝%20%20║;║%20%20%20%20██║%20%20%20%20%20██║%20%20%20██║██║%20%20██║█████╗%20%20██║%20%20██║█████╗%20%20█████╗%20%20%20%20║;║%20%20%20%20██║%20%20%20%20%20██║%20%20%20██║██║%20%20██║██╔══╝%20%20██║%20%20██║██╔══╝%20%20██╔══╝%20%20%20%20║;║%20%20%20%20╚██████╗╚██████╔╝██████╔╝███████╗██████╔╝███████╗███████╗%20%20║;║%20%20%20%20%20╚═════╝%20╚═════╝%20╚═════╝%20╚══════╝╚═════╝%20╚══════╝╚══════╝%20%20║;║%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20║;║%20%20%20%20%20%20%20%20%20FULL%20STACK%20•%20BLOCKCHAIN%20•%20SECURITY-FIRST%20%20%20%20%20║;║%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20║;║%20%20%20%20%20%20%20%20%20"Code%20is%20Poetry;%20Crypto%20is%20Truth"%20%20%20%20%20%20%20║;║%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20║;╚════════════════════════════════════════════════════════════════╝)
 
 </div>
 
@@ -425,7 +589,7 @@ Saat ini fokus pada pengembangan beberapa project mandiri yang challenging:
 
 **NODE STATUS:** 🟢 ACTIVE & DEVELOPING
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=alifian-dz&color=FFD700&style=flat-square&label=NODE%20VISITORS)
+![Visitor Badge](https://komarev.com/ghpvc/?username=alifian-dz&color=00FF66&style=flat-square&label=NODE%20VISITORS)
 
 **Built with ⚡ Cyberpunk Aesthetic | Powered by Decentralized Architecture**
 
