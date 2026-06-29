@@ -11,9 +11,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alifian-dz&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=false&bg_color=0d1117&border_color=00FF66&icon_color=00FF66&text_color=00FF66&title_color=00FF66)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alifian-dz&theme=tokyonight&background=0d1117&stroke=00FF66&ring=00FF66&fire=FF6B35&currStreakNum=00FF66&sideNums=00FF66)
+[![Alifian-dz's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alifian-dz&theme=react-dark&bg_color=0d1117&color=00FF66&line=FF6B35&point=00FF66&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -55,12 +53,14 @@
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=00FF66)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=ffffff)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000000)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=ffffff)
 
 ### **Web3 & Blockchain**
 ![Ethereum](https://img.shields.io/badge/Ethereum-627EEA?style=for-the-badge&logo=ethereum&logoColor=ffffff)
 ![MetaMask](https://img.shields.io/badge/MetaMask-F16821?style=for-the-badge&logo=metamask&logoColor=ffffff)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=ffffff)
 ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=ffffff)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF04D?style=for-the-badge&logo=ethereum&logoColor=000000)
 
 ### **Security & Cryptography**
 ![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=ffffff)
@@ -121,7 +121,7 @@ KEY CONTRIBUTIONS:
 <details open>
 <summary><b>📊 PROJECT LEAD & FRONTEND DEVELOPER</b> (Sep 2024 - Jul 2025)</summary>
 
-**Gajah Muda POS & Inventory Management System** (Capstone Project)
+**Capstone Project: POS & Inventory Management System**
 
 ```
 ROLE & RESPONSIBILITIES:
@@ -173,8 +173,6 @@ DELIVERABLES:
 <details>
 <summary><b>💾 SC-IPFS-AES-DATA STORAGE</b> — Blockchain Data Encryption Layer</summary>
 
-**Repository:** [`alifian-dz/SC-IPFS-AES-dataStorage`](https://github.com/alifian-dz/SC-IPFS-AES-dataStorage)
-
 ```
 DESCRIPTION:
 Decentralized, encrypted data storage system combining Ethereum smart
@@ -195,32 +193,92 @@ KEY FEATURES:
 </details>
 
 <details>
-<summary><b>🏪 GM-WAREHOUSE-SYSTEM</b> — Enterprise Inventory Management</summary>
-
-**Repository:** [`alifian-dz/GM-warehouse-system`](https://github.com/alifian-dz/GM-warehouse-system)
+<summary><b>📊 OZYMANDIAS</b> — AI-Powered Market Analysis & Prediction Engine</summary>
 
 ```
 DESCRIPTION:
-Full-stack inventory management and POS system for retail operations
-with real-time analytics, stock tracking, and transaction history.
+Advanced prediction market analysis platform with LLM-powered insights
+for Polymarket analysis, news aggregation, and market verdict generation.
 
 TECH STACK:
-React · Vite · TypeScript · Tailwind CSS · Firebase · Prisma
+Next.js · TypeScript · Tailwind CSS · Zod · PostgreSQL · Prisma
 
-FEATURES:
-• Role-based access control (Admin, Staff, Manager)
-• Real-time inventory tracking
-• Sales analytics dashboard
-• Product categorization & filtering
-• Transaction history & reporting
+KEY FEATURES:
+• Real-time Polymarket market data integration
+• LLM-powered verdict & analysis generation
+• News context-aware predictions
+• Advanced validation with Zod schemas
+• Enterprise-grade error handling
+```
+
+</details>
+
+<details>
+<summary><b>🎯 ASTRALEKHA</b> — Enterprise Savings & Fundraising Platform</summary>
+
+```
+DESCRIPTION:
+Full-stack SaaS platform for personal savings tracking and charitable
+fundraising with role-based access control and audit logging.
+
+TECH STACK:
+Next.js · TypeScript · NextAuth · PostgreSQL · Prisma · Tailwind CSS
+
+KEY FEATURES:
+• Role-based access control (Admin, Manager, User)
+• Comprehensive audit logging system
+• Secure payment integration
+• Protected dashboard with middleware auth
+• Real-time data synchronization
+```
+
+</details>
+
+<details>
+<summary><b>⚙️ TALOS</b> — Distributed Systems & Cloud Infrastructure</summary>
+
+```
+DESCRIPTION:
+Modular architecture framework for building scalable, distributed systems
+with focus on inter-service communication and resilience patterns.
+
+TECH STACK:
+TypeScript · Node.js · Express · Docker · PostgreSQL
+
+KEY FEATURES:
+• Service-oriented architecture patterns
+• API gateway implementation
+• Database migration tooling
+• Container orchestration support
+• Production-ready deployment configs
+```
+
+</details>
+
+<details>
+<summary><b>🛒 WAREHOUSE-POS-SYSTEM</b> — Enterprise Inventory & Point-of-Sale</summary>
+
+```
+DESCRIPTION:
+Full-stack enterprise system for inventory management, POS operations,
+and warehouse logistics with role-based permissions and audit trails.
+
+TECH STACK:
+Express.js · TypeScript · PostgreSQL · Prisma · React · Next.js
+
+KEY FEATURES:
+• Multi-role authorization (Owner, Manager, Staff)
+• Real-time inventory synchronization
+• Transaction security with rate limiting
+• Comprehensive error handling & validation
+• Audit logging & compliance tracking
+• REST API with helmet security headers
 ```
 
 </details>
 
 <details>
 <summary><b>📱 SANDHANA</b> — Open Source Intelligence Platform</summary>
-
-**Repository:** [`alifian-dz/SANDHANA`](https://github.com/alifian-dz/SANDHANA)
 
 ```
 DESCRIPTION:
@@ -230,7 +288,7 @@ Fully open-source with zero-network-dependency architecture.
 TECH STACK:
 Python · Streamlit · SQLite · Zero-Knowledge Encryption
 
-FEATURES:
+KEY FEATURES:
 • Multi-source data parsing (NIK, Phone, Media, Profile)
 • Offline EXIF extraction & analysis
 • SQLite zero-knowledge vault encryption
@@ -243,8 +301,6 @@ FEATURES:
 <details>
 <summary><b>🎤 VOXCOPIA</b> — AI-Powered Text-to-Speech System</summary>
 
-**Repository:** [`alifian-dz/VoxCopia`](https://github.com/alifian-dz/VoxCopia)
-
 ```
 DESCRIPTION:
 Advanced TTS system with SSML-based prosody control and emoji/markdown
@@ -253,7 +309,7 @@ cleanup for natural-sounding Indonesian speech synthesis.
 TECH STACK:
 Python · edge-tts · Streamlit · Regex Processing
 
-FEATURES:
+KEY FEATURES:
 • Natural prosody control (rate, pitch, volume)
 • Dynamic text preprocessing for TTS clarity
 • Indonesian female voice synthesis
@@ -266,8 +322,6 @@ FEATURES:
 <details>
 <summary><b>💰 CINTACUAN</b> — Personal Finance Management System</summary>
 
-**Repository:** [`alifian-dz/cintacuan`](https://github.com/alifian-dz/cintacuan)
-
 ```
 DESCRIPTION:
 Full-stack personal finance dashboard with multi-wallet support,
@@ -276,7 +330,7 @@ expense categorization, and expense analytics.
 TECH STACK:
 TypeScript · Next.js · Prisma · PostgreSQL · Tailwind CSS · bcryptjs
 
-FEATURES:
+KEY FEATURES:
 • Multi-wallet transaction tracking (Cash, Bank, E-wallets)
 • Income/Expense categorization with emoji icons
 • Secure password hashing (bcryptjs)
@@ -289,8 +343,6 @@ FEATURES:
 <details>
 <summary><b>🛒 SHOPEE-SCRAPING-PRODUCT</b> — E-Commerce Data Extraction</summary>
 
-**Repository:** [`alifian-dz/shopee-scraping-product`](https://github.com/alifian-dz/shopee-scraping-product)
-
 ```
 DESCRIPTION:
 Chrome extension for extracting and processing Shopee product listings
@@ -299,7 +351,7 @@ with price filtering and data export capabilities.
 TECH STACK:
 JavaScript · Chrome Extension API · HTML/CSS
 
-FEATURES:
+KEY FEATURES:
 • Dynamic brand and keyword configuration
 • Price range filtering
 • Real-time scraping progress tracking
@@ -308,16 +360,6 @@ FEATURES:
 ```
 
 </details>
-
----
-
-## 📊 CODE ACTIVITY & METRICS
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alifian-dz&theme=tokyonight&layout=compact&bg_color=0d1117&border_color=00FF66&text_color=00FF66&title_color=00FF66)
-
-</div>
 
 ---
 
@@ -330,56 +372,40 @@ FEATURES:
 
 ---
 
-## 📚 EDUCATION & CERTIFICATIONS
-
-```
-DEGREE:
-Bachelor of Informatics
-Ahmad Dahlan University, Yogyakarta, Indonesia
-Expected Graduation: 2026
-
-SPECIALIZATION:
-Web Development & Blockchain Technology
-
-RESEARCH AREAS:
-✓ Cryptographic Security Systems
-✓ Decentralized Application Architecture
-✓ Smart Contract Development & Auditing
-✓ Full-Stack Web Development
-```
-
----
-
 ## 🔗 ESTABLISH CONNECTION
 
-<details>
-<summary><b>CONTACT & SOCIAL CHANNELS</b></summary>
+<div align="center">
+
+**Quick Links — Click to Connect:**
+
+[![Email](https://img.shields.io/badge/Email-alif.workmail%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alif.workmail@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-alifian--dz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alifian-dz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Coming%20Soon-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-00FF66?style=for-the-badge&logo=firefox&logoColor=black)](#)
+[![Twitter](https://img.shields.io/badge/Twitter-Coming%20Soon-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
 
 ```
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  DIGITAL PRESENCE & COLLABORATION CHANNELS
+  OPEN TO COLLABORATION & OPPORTUNITIES
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-📧 EMAIL
-   └─> dakiansah9@gmail.com
+📧 Direct Mail        : alif.workmail@gmail.com
+🔗 GitHub Profile     : https://github.com/alifian-dz
+💼 LinkedIn           : [Link Coming Soon]
+🌐 Portfolio/CV       : [Link Coming Soon]
+🐦 Twitter/X          : [Link Coming Soon]
 
-🐙 GITHUB
-   └─> https://github.com/alifian-dz
-
-💼 PROFESSIONAL INQUIRIES
-   └─> Open to freelance, internship, and research collaboration
-
-⚡ INTERESTS
-   ├─ Web3 & Blockchain Development
-   ├─ Full-Stack Architecture
-   ├─ Cryptographic Systems
-   ├─ Open-Source Contributions
-   └─ Technical Writing & Documentation
+INTERESTS:
+├─ Web3 & Blockchain Development
+├─ Full-Stack Architecture
+├─ Cryptographic Systems
+├─ Open-Source Contributions
+└─ Technical Writing & Documentation
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-</details>
+</div>
 
 ---
 
