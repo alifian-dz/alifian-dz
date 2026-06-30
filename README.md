@@ -11,8 +11,8 @@
 
 <div align="center">
 
-<!-- Dynamically Generated Cyberpunk Activity Graph -->
-[![alifian-dz Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alifian-dz&bg_color=0D1117&color=00FF66&line=00FF66&point=FF003C&area=true&hide_border=true)](https://github.com/alifian-dz)
+<!-- Cyberpunk Glowing Matrix Grid (External SVG Bypass) -->
+<img src="./cyber-grid.svg" width="100%" alt="Glowing Contribution Matrix">
 
 </div>
 
