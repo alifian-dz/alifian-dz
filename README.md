@@ -12,12 +12,12 @@
 <div align="center">
 
 <!-- WIDGET 1: DYNAMIC STREAK INFO (Kiri) -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alifian-dz&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF66&fire=FF003C&sideNums=C9D1D9&currStreakNum=00FF66" alt="Streak Stats" width="48%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alifian-dz&theme=tokyonight&hide_border=true&background=0D1117&ring=FFD700&fire=FF003C&sideNums=C9D1D9&currStreakNum=FFD700" alt="Streak Stats" width="48%">
 
 <!-- WIDGET 2: NATIVE 365-DAY GITHUB MATRIX (Kanan/Bawah) -->
 <!-- API ini (ghchart) secara real-time mengambil kotak kontribusi asli dan mengubah warnanya menjadi Cyberpunk Green (#00FF66) -->
 <a href="https://github.com/alifian-dz">
-  <img src="https://ghchart.rshah.org/00FF66/alifian-dz" alt="alifian-dz's Dynamic Contribution Chart" style="margin-top: 15px;">
+  <img src="https://ghchart.rshah.org/FFD700/alifian-dz" alt="alifian-dz's Dynamic Contribution Chart" style="margin-top: 15px;">
 </a>
 
 </div>
