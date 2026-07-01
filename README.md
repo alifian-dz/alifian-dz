@@ -1,7 +1,7 @@
 <!-- CYBERPUNK PROFILE HEADER -->
 <div align="center">
 
-![ALIFIAN-DZ TERMINAL](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=500&color=00FF66&center=true&vCenter=true&width=800&height=100&lines=INITIALIZING+SYSTEM...;ACCESS+GRANTED+%7C+alifian-dz;WELCOME+TO+NODE+%5BDECENTRALIZED%5D;Full+Stack+Dev+%26+Blockchain+Researcher)
+![ALIFIAN-DZ TERMINAL](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=500&color=00FF66&center=true&vCenter=true&width=800&height=100&lines=INITIALIZING+SYSTEM...;WELCOME+TO+ALIFIAN'S+TERMINAL;FULL+STACK+%7C+WEB3+%7C+SECURITY)
 
 </div>
 
@@ -12,11 +12,11 @@
 <div align="center">
 
 <!-- WIDGET 1: DYNAMIC STREAK INFO (Kiri) -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alifian-dz&theme=tokyonight&hide_border=true&background=0D1117&ring=FFD700&fire=FF003C&sideNums=C9D1D9&currStreakNum=FFD700" alt="Streak Stats" width="48%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alifian-dz&theme=tokyonight&hide_border=true&background=0D1117&ring=FFD700&fire=FF003C&sideNums=C9D1D9&currStreakNum=FFD700&cache=0" alt="Streak Stats">
 
 <!-- WIDGET 2: DYNAMIC ACTIVITY GRAPH (GOLD & RED THEME) -->
 <a href="https://github.com/alifian-dz">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alifian-dz&bg_color=0D1117&color=C9D1D9&line=FFD700&point=FF003C&area=true&hide_border=true" alt="alifian-dz's Activity Graph" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alifian-dz&bg_color=0D1117&color=C9D1D9&line=FFD700&point=FF003C&area=true&hide_border=true&cache=0" alt="alifian-dz's Activity Graph">
 </a>
 
 </div>
@@ -26,14 +26,14 @@
 ## 📋 SYSTEM IDENTITY
 
 ```
-╔════════════════════════════════════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════════╗
 ║  NAME          : Alifian Damar Zakiansah (alifian-dz)         ║
 ║  ROLE          : Full Stack Developer & Blockchain Researcher ║
 ║  STATUS        : Active Development                            ║
 ║  EDUCATION     : Bachelor of Informatics                       ║
 ║  INSTITUTION   : Ahmad Dahlan University (Expected 2026)       ║
 ║  SPECIALIZATION: Full-Stack Development & Web3 Architecture   ║
-╚════════════════════════════════════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════════╝
 ```
 
 ---
@@ -406,23 +406,23 @@ Currently focused on building secure, decentralized systems, with a strict empha
 <div align="center">
 
 ```
-╔═════════════════════════════════════════════════════════════════╗
-║                                                                 ║
-║     ██████╗ ██████╗ ██████╗ ███████╗██████╗ ███████╗██╗   ██╗   ║
-║    ██╔════╝██╔═══██╗██╔══██╗██╔════╝██╔══██╗██╔════╝██║   ██║   ║
-║    ██║     ██║   ██║██║  ██║█████╗  ██║  ██║█████╗  ██║   ██║   ║
-║    ██║     ██║   ██║██║  ██║██╔══╝  ██║  ██║██╔══╝  ╚██╗ ██╔╝   ║
-║    ╚██████╗╚██████╔╝██████╔╝███████╗██████╔╝███████╗ ╚████╔╝    ║
-║     ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝╚═════╝ ╚══════╝  ╚═══╝     ║
-║                                                                 ║
-╚═════════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════════╗
+║                                                                            ║
+║     ██████╗ ██████╗ ██████╗ ███████╗██████╗ ███████╗██╗   ██╗             ║
+║    ██╔════╝██╔═══██╗██╔══██╗██╔════╝██╔══██╗██╔════╝██║   ██║             ║
+║    ██║     ██║   ██║██║  ██║█████╗  ██║  ██║█████╗  ██║   ██║             ║
+║    ██║     ██║   ██║██║  ██║██╔══╝  ██║  ██║██╔══╝  ╚██╗ ██╔╝             ║
+║    ╚██████╗╚██████╔╝██████╔╝███████╗██████╔╝███████╗ ╚████╔╝              ║
+║     ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝╚═════╝ ╚══════╝  ╚═══╝               ║
+║                                                                            ║
+╚════════════════════════════════════════════════════════════════════════════╝
 ```
 
-![Typewriter Effect](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=600&height=50&lines=FULL+STACK+%7C+BLOCKCHAIN+%7C+SECURITY-FIRST;%22Code+is+Poetry%3B+Crypto+is+Truth%22)
+![Typewriter Effect](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=600&height=50&lines=FULL+STACK+DEVELOPER;WEB3+ARCHITECT;SECURITY+RESEARCHER)
 
 </div>
 
-**LAST SYSTEM UPDATE:** 2026-06-29
+**LAST SYSTEM UPDATE:** 2026-07-01
 
 **NODE STATUS:** 🟢 ACTIVE & DEVELOPING
 
